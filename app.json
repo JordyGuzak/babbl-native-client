@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-cook-book",
-    "slug": "my-cook-book",
+    "name": "babbl",
+    "slug": "babbl",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
