@@ -1,12 +1,8 @@
 import { Column, Image, useColorModeValue } from 'native-base'
-import { Image as ReactImage } from 'react-native'
-import { useEffect, useState } from 'react'
 import type { NativeStackScreenProps } from 'react-native-screens/native-stack'
 
 import Label from 'app/components/label'
 import AnimatedColorBox from 'app/components/animated-color-box'
-import PostService from 'app/services/post-service'
-import Post from 'app/models/post'
 import { RootStackParamList } from 'App'
 import { SharedElement } from 'react-navigation-shared-element'
 
